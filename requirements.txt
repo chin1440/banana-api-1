@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+torchvision
+pillow
+requests
+gdown
+gunicorn
